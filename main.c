@@ -1,17 +1,9 @@
-//
-//  main.c
-//  test
-//
-//  Created by 이준섭 on 21/09/2019.
-//  Copyright © 2019 이준섭. All rights reserved.
-//
-
 #include <stdio.h>
 
 void print_lines(void)
 {
-    printf("------------------ \n");
-    printf("------------------ \n");
+    printf("------------ \n");
+    printf("------------ \n");
 }
 int main(void)
 {
